@@ -91,18 +91,17 @@ ask_me:     "About projects, startups, or anything tech 🚀"
 
 ## 🌟 Featured Projects
 
-### 🔗 [Project Name 1](https://github.com/build-aayan1219/project1)
-> **What problem does it solve? One punchy line here.**
-- 🛠️ Built with: `HTML` `CSS` `JavaScript`
-- ✨ Key highlight: [What makes it interesting]
-- 🚀 Live: [Link if deployed]
+### 🔗 [Resume Analyser](https://github.com/build-aayan1219/Resume-Analyzer.git)
+> **Helps job seekers improve resume quality and pass ATS filters to increase interview chances.**
+- 🛠️ Built with: `Python, JavaScript, HTML, CSS (optionally with libraries like NLP frameworks or React/Node.js`
+- ✨ Key highlight: [AI-based resume analyzer that evaluates resumes, matches job descriptions, and provides ATS optimization suggestions.]
 
-### 🔗 [Project Name 2](https://github.com/build-aayan1219/project2)
-> **What problem does it solve? One punchy line here.**
+### 🔗 [Playtribe](https://github.com/build-aayan1219/PlayTribe)
+> **Helps students instantly find people nearby to play sports with, so games actually happen instead of getting cancelled.**
 - 🛠️ Built with: `JavaScript` `Node.js`
 - ✨ Key highlight: [What makes it interesting]
 
-### 🔗 [ENACT Platform](https://github.com/build-aayan1219/enact)
+### 🔗 [ENACT Platform]
 > Community-driven engineering resource hub for VIT Pune students
 - 🛠️ Built with: [Tech stack]
 - 👥 Serving engineering students via WhatsApp
