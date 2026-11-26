@@ -20,10 +20,6 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=build-aayan1219&theme=github-dark&mode=dark" alt="Aayan_Shaikh's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=build-aayan1219&theme=github-dark&mode=dark" alt="build-aayan1219's Activity Graph" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
