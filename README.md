@@ -1,220 +1,57 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aayan_Shaikh</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aayan%20Shaikh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<br/>
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=8B7CF6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aayan;Hi+%F0%9F%91%8B+I'm+Aayan;Hi+%F0%9F%91%8B+I'm+Aayan;Builder+%7C+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=build-aayan1219&theme=github-dark&mode=dark" alt="build-aayan1219's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=build-aayan1219&theme=nightowl&hide_border=true&cache_seconds=86400" alt="build-aayan1219's GitHub Streak" width="49%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=build-aayan1219&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=build-aayan1219&theme=github-dark&mode=dark" alt="Aayan_Shaikh's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=build-aayan1219&theme=github-dark&mode=dark" alt="build-aayan1219's Activity Graph" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayan-shaikh-518153388)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aayanbshaikh1219@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/build-aayan1219)
+## 🛠️ Languages & Tools
 
-<br/><br/>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=build-aayan1219\&style=for-the-badge\&color=302b63\&label=PROFILE+VIEWS)
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-</div>
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
----
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🧠 About Me
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-```yaml
-name:       "Aayan Shaikh"
-location:   "Pune, India 🇮🇳"
-college:    "VIT Pune — B.Tech CSE (2nd Year)"
-focus:      ["AI/ML", "Data Science", "Software Development"]
-interests:  ["GenAI", "NLP", "Data Analytics", "Web & App Development"]
-learning:   ["Machine Learning", "Backend Development", "System Design"]
-open_to:    ["Collaborations", "Hackathons", "Open Source", "Internships"]
-```
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-I'm a Computer Science Engineering student who enjoys **building, experimenting, and learning through real-world projects**.
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-I've explored technologies across **Artificial Intelligence, Machine Learning, Data Science, Data Analytics, Web Development, Mobile Development, Databases, IoT, and Software Engineering**.
-
-I enjoy turning ideas into working applications and continuously expanding my technical skill set.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frameworks & Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### AI / ML / Data
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-1877F2?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### AI & API Technologies
-
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-
-### IoT & Embedded
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-<br/>
-
-**AI / ML:** Machine Learning • Generative AI • LLMs • NLP • RAG • Embeddings • Semantic Search • Prompt Engineering • OCR • Multimodal AI • Text-to-Image Generation
-
-**Data:** Data Analysis • Data Visualization • Data Preprocessing • Statistical Analysis • Predictive Analytics • Model Evaluation
-
-**Software Engineering:** SRS • UML • System Design • Software Architecture • Requirements Analysis • PRD • Debugging • Version Control
-
-**Development:** REST APIs • API Integration • Virtual Environments • pip • npm • Environment Variables • JSON
-
-**IoT:** Sensors • Energy Monitoring • Voltage & Current Measurement • Relays • MQTT • Appliance Monitoring
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📄 [Resume Analyzer](https://github.com/build-aayan1219/Resume-Analyzer)
-
-> **An AI-powered resume analysis system designed to evaluate resumes, identify relevant skills, and help candidates optimize their resumes for job opportunities.**
-
-* 🛠️ **Tech:** `Python` `NLP` `Machine Learning` `HTML` `CSS` `JavaScript`
-* 📄 Resume parsing and automated evaluation
-* 📊 ATS-style resume scoring
-* 🔎 Skill extraction and job-role matching
-* 💡 Personalized resume improvement suggestions
-* 🔬 Developed as an academic research project
-
----
-
-### ✈️ AI Travel Planner
-
-> **An AI-powered travel planning application that creates personalized travel experiences based on user preferences and destination information.**
-
-* 🛠️ **Tech:** `Python` `Streamlit` `LLMs` `APIs`
-* 🗺️ AI-powered destination recommendations
-* 📅 Personalized itinerary generation
-* 🌤️ Weather information integration
-* 💰 Travel cost estimation
-* 📊 Dataset-based prediction and recommendation workflows
-
----
-
-### 🤖 Real-Time GenAI Customer Service Chatbot
-
-> **A RAG-powered customer service chatbot that retrieves information from a knowledge base and generates context-aware responses.**
-
-* 🛠️ **Tech:** `Python` `LangChain` `FAISS` `Sentence Transformers` `Streamlit`
-* 🧠 Retrieval-Augmented Generation
-* 🔎 Semantic search and embeddings
-* 📚 Dynamic knowledge-base ingestion
-* 📄 Document and PDF processing
-* 🛡️ Prompt-injection protection and sensitive-data handling
-* 🖼️ Multimodal evidence and OCR workflows
-
----
-
-### 🏗️ ConstrOpedia
-
-> **A construction-domain software solution developed with a focus on requirements engineering, system design, and structured software development.**
-
-* 🛠️ **Focus:** `Software Engineering` `System Design` `UML` `SRS`
-* 📐 Requirements analysis and documentation
-* 🧩 System architecture and workflow design
-* 📊 UML diagrams
-* 📝 Software Requirements Specification
-* 🏗️ Domain-focused problem solving
-
----
-
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=build-aayan1219&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=build-aayan1219&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=build-aayan1219&theme=github-dark&mode=dark" />
+</picture>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=build-aayan1219&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-aayan1219&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-aayan1219&theme=tokyonight&hide_border=true" />
-
+  <!---->
 </div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=build-aayan1219&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-> *"Build. Learn. Improve. Repeat. 🚀"*
-
-I'm always open to collaborating on interesting projects, exploring new technologies, participating in hackathons, and connecting with fellow developers.
-
-**Let's build something impactful together! 🚀**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayan%20Shaikh-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayan-shaikh-518153388)
-[![Email](https://img.shields.io/badge/Gmail-aayanbshaikh1219-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aayanbshaikh1219@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-build--aayan1219-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/build-aayan1219)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center"><sub>Aayan_Shaikh · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
